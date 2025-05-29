@@ -70,4 +70,5 @@
     display: flex;
     justify-contain: center;
     flex-direction: column;
+    margin-top: 42px;
 }
